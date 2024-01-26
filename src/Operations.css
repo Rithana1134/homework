@@ -1,0 +1,24 @@
+.container{
+    margin-top: center;
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+    height: 100vh;
+    margin-bottom: 0px;
+}
+.counter-box{
+    text-align: center;
+    background-color: aquamarine;
+    margin-top: 250px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 0px;
+}
+button{
+    background-color: greenyellow;
+    border-radius: 10px;
+    font-size: 20px;
+    height:70px ;
+    width: 150px;
+    color:black;
+}
