@@ -21,12 +21,14 @@ import React from 'react'
 import Operations from './Operations'
 import Ternary from './Ternary'
 import Reducer from './Reducer'
+import Callback from './Callback'
 export default function App() {
    return (
      <div>
        <Operations/>
          <Ternary/> 
          <Reducer/>
+         <Callback/>
      </div>
    )
 }
